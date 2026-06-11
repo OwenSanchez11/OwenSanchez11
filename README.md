@@ -53,7 +53,7 @@ sistema de gestión de equipos diseñado para administrar inventario, usuarios y
 - Spring Boot
 - PostgreSQL
 
-🔗 Repositorio: [Sistema de gestión de equipos de mantenimiento](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Sistema-de-gesti-n-de-equipos.git))
+🔗 Repositorio: [Sistema de gestión de equipos de mantenimiento](https://github.com/OwenSanchez11/Sistema-de-gesti-n-de-equipos.git)
 
 ---
 
