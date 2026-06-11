@@ -1,16 +1,73 @@
-## Im Owen Sanchez
+# 👋 Hola, soy Owen Sánchez
 
-<!--
-**OwenSanchez11/OwenSanchez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo Backend y Bases de Datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro fortaleciendo mis conocimientos en Java, Spring Boot y PostgreSQL mediante proyectos personales y aprendizaje autónomo.
+
+---
+
+## 🚀 Tecnologías
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📚 Actualmente Aprendiendo
+
+- Arquitectura Backend con Spring Boot
+- PostgreSQL
+- Diseño de APIs REST
+
+---
+
+## 🏗️ Proyectos
+
+### 🛒 FakeStore Web - SEAL HOUSE
+
+Pagina web desarrollada como proyecto universitario enfocada en simular un E-commerce consumiendo la FakeStore API
+
+**Tecnologías utilizadas:**
+- JavaScript
+- HTML
+- CSS
+
+🔗 Repositorio: [FakeStore API](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
+
+---
+
+## 🎯 Objetivos
+
+- Conseguir mi primera oportunidad como Backend Developer Junior.
+- Profundizar en PostgreSQL y diseño de bases de datos.
+- Aprender Docker y despliegue de aplicaciones.
+- Especializarme en Backend y posteriormente en Ciberseguridad.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwenSanchez11&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanchez11&layout=compact)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/owen-sanchez-94032521b
+- Email: owensanchez1104@gmail.com
+
+---
+⭐ Siempre aprendiendo y construyendo nuevos proyectos.
