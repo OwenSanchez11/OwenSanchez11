@@ -45,6 +45,16 @@ Pagina web desarrollada como proyecto universitario enfocada en simular un E-com
 
 🔗 Repositorio: [FakeStore API](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
 
+### 💻 Sistema de gestión de equipos de mantenimiento
+sistema de gestión de equipos diseñado para administrar inventario, usuarios y operaciones mediante una API REST siguiendo buenas prácticas de desarrollo backend.
+
+**Tecnologías utilizadas**
+- Java
+- Spring Boot
+- PostgreSQL
+
+🔗 Repositorio: [Sistema de gestión de equipos de mantenimiento](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Sistema-de-gesti-n-de-equipos.git))
+
 ---
 
 ## 🎯 Objetivos
