@@ -53,7 +53,7 @@ Pagina web desarrollada como proyecto universitario enfocada en simular un E-com
 
 🔗 Repositorio: [SEAL HOUSE](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
 
-### 💻 Sistema de gestión de equipos de mantenimiento
+### 💻 Sistema de gestión de prestamos y mantenimientos de equipos
 sistema de gestión de equipos diseñado para administrar inventario, usuarios y operaciones mediante una API REST siguiendo buenas prácticas de desarrollo backend.
 
 **Tecnologías utilizadas**
