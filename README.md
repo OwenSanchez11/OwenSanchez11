@@ -76,9 +76,9 @@ sistema de gestión de equipos diseñado para administrar inventario, usuarios y
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwenSanchez11&show_icons=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=OwenSanchez11&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanchez11&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=OwenSanchez11&layout=compact)
 
 ---
 
