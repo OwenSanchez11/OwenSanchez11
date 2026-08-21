@@ -1,14 +1,13 @@
-# 👋 Hola, soy Owen Sánchez
+# 👋 Hi, I'm Owen Sánchez
+🎓 student of systems engineering
 
-🎓 Estudiante de Ingeniería de Sistemas
+💻 Passionate aboout backend development and databases
 
-💻 Apasionado por el desarrollo Backend y Bases de Datos
-
-Actualmente me encuentro fortaleciendo mis conocimientos en Java, Spring Boot y PostgreSQL mediante proyectos personales y aprendizaje autónomo.
+I'm a systems engineering student and I'm currently focused on strengthening my skills as a backend developer. My main focus is on Java, Spring boot, and PostgreSQL, complementing my learning through academic and personal projects. I also have experience working with Python, FastAPI, MySQL, Git and Docker. And I'm interested in continuing to deepen my knowledge of software architecture, databases, APIs, and cybersecurity. 
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +24,7 @@ Actualmente me encuentro fortaleciendo mis conocimientos en Java, Spring Boot y 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -33,45 +32,46 @@ Actualmente me encuentro fortaleciendo mis conocimientos en Java, Spring Boot y 
 
 ---
 
-## 📚 Actualmente Aprendiendo
+## 📚 Currently learning
 
-- Arquitectura Backend con Spring Boot
+- Backend architecture with Spring boot
 - PostgreSQL
-- Diseño de APIs REST
+- API rest desing
+- Docker
 
 ---
 
-## 🏗️ Proyectos
+## 🏗️ Projects
 
 ### 🛒 FakeStore Web - SEAL HOUSE
 
-Pagina web desarrollada como proyecto universitario enfocada en simular un E-commerce consumiendo la FakeStore API
+Website developed as a university project focused on simulating an e-commerce plataform using the FakeStore API
 
-**Tecnologías utilizadas:**
+**Technologies used:**
 - JavaScript
 - HTML
 - CSS
 
-🔗 Repositorio: [SEAL HOUSE](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
+🔗 Repository: [SEAL HOUSE](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
 
-### 💻 Sistema de gestión de prestamos y mantenimientos de equipos
-sistema de gestión de equipos diseñado para administrar inventario, usuarios y operaciones mediante una API REST siguiendo buenas prácticas de desarrollo backend.
+### 💻 Equipment loan and maintenance management system
+Equipment management system designed to manage inventory, users, and operations through a REST API following good backend development practices.
 
-**Tecnologías utilizadas**
+**Technologies used:**
 - Java
 - Spring Boot
 - PostgreSQL
 
-🔗 Repositorio: [Sistema de gestión de equipos de mantenimiento](https://github.com/OwenSanchez11/Sistema-de-gesti-n-de-equipos.git)
+🔗 Repository: [Sistema de gestión de equipos de mantenimiento](https://github.com/OwenSanchez11/Sistema-de-gesti-n-de-equipos.git)
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Conseguir mi primera oportunidad como Backend Developer Junior.
-- Profundizar en PostgreSQL y diseño de bases de datos.
-- Aprender Docker y despliegue de aplicaciones.
-- Especializarme en Backend y posteriormente en Ciberseguridad.
+- Getting my first opportunity as a Backend Developer.
+- Delve deeper into PostgreSQL and database design.
+- delve deeper into Docker and application deployment.
+- to specialize in Backend and later in Cybersecurity.
 
 ---
 
@@ -83,10 +83,10 @@ sistema de gestión de equipos diseñado para administrar inventario, usuarios y
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/owen-sanchez-94032521b
 - Email: owensanchez1104@gmail.com
 
 ---
-⭐ Siempre aprendiendo y construyendo nuevos proyectos.
+⭐ Always learning and building new projects
