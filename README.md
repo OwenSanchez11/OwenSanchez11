@@ -48,16 +48,34 @@ I'm a systems engineering student and I'm currently focused on strengthening my 
 
 ## 🏗️ Projects
 
-### 🛒 FakeStore Web - SEAL HOUSE
+## 🎓 GradosTrack — Thesis Tracking Platform
 
-Website developed as a university project focused on simulating an e-commerce plataform using the FakeStore API
+Full-stack web platform for tracking the progress of thesis projects between students, advisors, coordinators, and administrators. Students upload progress and deliverables, advisors give feedback and evaluations, and administrators manage the whole system.
 
-**Technologies used:**
-- JavaScript
-- HTML
-- CSS
+### Tech Stack
+- **Frontend:** Svelte 5 (runes) · Bootstrap
+- **Backend:** FastAPI (Python) · psycopg2
+- **Database:** PostgreSQL (Neon)
+- **Auth:** JWT · bcrypt password hashing
+- **Deployment:** Render (API) · Netlify (frontend)
 
-🔗 Repository: [SEAL HOUSE](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git)
+### Key Features
+- **Role-based access:** 4 roles (student, advisor, coordinator, admin), each with its own views and protected routes
+- **Thesis management:** thesis detail pages with the assigned work team, progress records, and submitted documents
+- **Progress & deliverables:** versioned progress entries with deadlines and verdicts (approved, rejected, in progress)
+- **Feedback & evaluations:** advisors can comment on progress and evaluate theses; students can view their evaluations
+- **Team assignment:** admin screen to assign advisors and students to each thesis
+- **Admin panel:** full CRUD for users, roles, faculties, and degree programs, with filtering by faculty and program done in the backend with SQL
+
+### Architecture Notes
+- Service-layer backend with JOIN-based queries and optional filter parameters
+- Centralized API client in the frontend (`$lib/api`) with the backend URL configured through environment variables
+- CORS and secrets managed through environment variables
+- Relational database designed from scratch for the thesis tracking domain
+
+🔗 Repository: [BACKEND]([https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Plataforma-de-seguimiento-y-gesti-n-de-proyectos-de-grados-tesis.git))
+
+🔗 Repository: [FRONTEND]([[https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Plataforma-de-seguimiento-y-gesti-n-de-proyectos-de-grados-tesis.git)](https://github.com/OwenSanchez11/Frontend-plataforma-de-seguimiento-de-trabajos-de-grado.git))
 
 ### 💻 Equipment loan and maintenance management system
 Equipment management system designed to manage inventory, users, and operations through a REST API following good backend development practices.
