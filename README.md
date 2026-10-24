@@ -73,9 +73,9 @@ Full-stack web platform for tracking the progress of thesis projects between stu
 - CORS and secrets managed through environment variables
 - Relational database designed from scratch for the thesis tracking domain
 
-🔗 Repository: [BACKEND](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Plataforma-de-seguimiento-y-gesti-n-de-proyectos-de-grados-tesis.git))
+🔗 Repository: [BACKEND](https://github.com/OwenSanchez11/Plataforma-de-seguimiento-y-gesti-n-de-proyectos-de-grados-tesis)
 
-🔗 Repository: [FRONTEND](https://github.com/OwenSanchez11/Proyecto-Tienda-virtual-FakeStore.git](https://github.com/OwenSanchez11/Plataforma-de-seguimiento-y-gesti-n-de-proyectos-de-grados-tesis.git)](https://github.com/OwenSanchez11/Frontend-plataforma-de-seguimiento-de-trabajos-de-grado.git))
+🔗 Repository: [FRONTEND](https://github.com/OwenSanchez11/Frontend-plataforma-de-seguimiento-de-trabajos-de-grado)
 
 ### 💻 Equipment loan and maintenance management system
 Equipment management system designed to manage inventory, users, and operations through a REST API following good backend development practices.
